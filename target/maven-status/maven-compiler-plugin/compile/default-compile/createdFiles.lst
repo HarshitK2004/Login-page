@@ -1,0 +1,7 @@
+com\example\landingpage\demo\WebConfig.class
+com\example\landingpage\demo\ApiController.class
+com\example\landingpage\demo\DemoApplication.class
+com\example\landingpage\demo\UserRepository.class
+com\example\landingpage\demo\User.class
+com\example\landingpage\demo\WebConfig$1.class
+com\example\landingpage\demo\AuthController.class
